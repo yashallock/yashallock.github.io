@@ -1,0 +1,50 @@
+header {
+    background-color: #ebebeb;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #ebebeb;
+    padding: 20px;
+    text-align: center;
+}
+
+aside {
+    float: right;
+    padding: 50px;
+    background-color: #ebebeb;
+}
+
+footer {
+    background-color: #ebebeb;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 20px;
+}
+
+section {
+    padding: 100px;
+    background-color: #ebebeb;
+    float: left;
+}
+
+h3 {
+    padding: 20px;
+    background-color: #777;
+    width: 400px;
+    text-align: center;
+}
+
+p {
+    padding: 20px;
+    background-color: #777;
+    text-align: center;    
+}
+
+article {
+    background-color: #ebebeb;
+    padding: 30px;
+}
